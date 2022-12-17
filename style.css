@@ -1,0 +1,48 @@
+#NAGLOWEK {
+  width: auto;
+  height: auto;
+  text-align: center;
+  text-decoration: solid;
+  font-size: 25px;
+  padding-top: 25px;
+  padding-bottom: 25px;
+  font-family: "Montserrat", sans-serif;
+  font-family: "Unbounded", cursive;
+  background-color: teal;
+}
+
+#div_menu {
+  width: auto;
+  height: auto;
+  color: blue;
+  background-color: aquamarine;
+  font-family: "Montserrat", sans-serif;
+  font-family: "Unbounded", cursive;
+}
+.class_1 {
+  text-align: center;
+  padding: 30px 30px;
+}
+
+.class_2 {
+  text-align: left;
+}
+
+#div_article {
+  text-align: right;
+  padding-top: 60px;
+  padding-bottom: 60px;
+  padding-left: 30px;
+  padding-right: 30px;
+  font-family: "Playfair Display", serif;
+  font-family: "Unbounded", cursive;
+  background-color: rgb(188, 231, 231);
+}
+
+#div_STOPKA {
+  text-align: center;
+  font-family: "Playfair Display", serif;
+  font-family: "Unbounded", cursive;
+  padding-top: 30px;
+  padding-bottom: 30px;
+}
